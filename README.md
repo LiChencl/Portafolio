@@ -1,6 +1,3 @@
-# Portafolio
-Portafolio con diferentes proyectos
-
 # 👋 Hi, I'm LiChencl!
 
 ### Ingeniero Comercial | Data Scientist
