@@ -97,7 +97,7 @@ El número de estudiantes que estan bajo el promedio es 507, con un porcentke de
 
 Análisis comparativo  
 • ¿Cuáles con las correlaciones entre las variables?  
-Dirigirse al mapa de calor dentro del proyecto, para una visión clara de las correlaciones.
+![alt](https://github.com/LiChencl/Portafolio/blob/main/Python/correlacion.png)
 
 _______________________________________________________________________________________________________________________
 ## Conclusiones
