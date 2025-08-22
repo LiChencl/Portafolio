@@ -1,20 +1,37 @@
-Dataset utilizado, se encuentra en Kaggle: Dataset utilizado encontrado en Kaggle: 
+<!-- Encabezado principal -->
+<h1 align="center"> Estres en estudiantes:</h1>
 
-Estres en estudiantes:
+<p style="text-align: justify;">
+Dataset utilizado, se encuentra en Kaggle: Dataset utilizado encontrado en Kaggle: <a href= "https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets" >  Stress_Dataset /a>
+Contiene 1100 registros x 21 columnas.
 
+</p>
+
+<p style="text-align: justify;">
 Este conjunto de datos no contiene valores faltantes ni duplicados.
 No es necesario realizar ninguna limpieza, por lo que se puede comenzar el análisis sin necesidad de realizar pasos adicionales.
 
 Este análisis tiene como objetivo resolver las siguientes preguntas:
-
 Análisis de datos
-• ¿Qué factores se reportan más seguido?
-• ¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?
-• ¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?
-• ¿Cuáles son los 3 mayores factores que aumentan al estrés?
-• ¿Para el factor que disminuye el estres, cuántos estudiantes tienen un nivel por debajo del promedio?
-• ¿Cuáles son los 3 factores que disminunyen el estrés?
+</p>
 
+<ul style="text-align: justify;">
+    <li>• ¿Qué factores se reportan más seguido?.</li>
+    <li>• ¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?</li>
+    <li>• ¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?</li>
+  <li>• • ¿Cuáles son los 3 mayores factores que aumentan al estrés?</li>
+  <li>• ¿Para el factor que disminuye el estres, cuántos estudiantes tienen un nivel por debajo del promedio?</li>
+  <li>• ¿Cuáles son los 3 factores que disminunyen el estrés?</li>
+</ul>
+
+<p style="text-align: justify;">
 Análisis comparativo
 • ¿Cuáles con las correlaciones entre los factores?
 • ¿Los estudiantes que sufren acoso escolar tienen mayor probabilidad de tener antecedentes de problemas de salud mental?
+</p>
+
+
+<h2>🏁 Conclusión</h2>
+<p style="text-align: justify;">
+tengo la media corneta.
+</p>
