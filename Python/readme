@@ -1,83 +1,29 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Estrés en estudiantes</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 32px;
-            background: #fafafa;
-            color: #222;
-        }
-        h1, h2 {
-            text-align: center;
-        }
-        ul {
-            max-width: 800px;
-            margin: 0 auto 16px auto;
-            padding-left: 24px;
-        }
-        p {
-            max-width: 800px;
-            margin: 0 auto 16px auto;
-            text-align: justify;
-        }
-        a {
-            color: #1565c0;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .section {
-            margin-bottom: 32px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Estrés en estudiantes</h1>
+Dataset utilizado, se encuentra en Kaggle: [StressLevelDataset](https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets)
 
-    <div class="section">
-        <p>
-            Dataset utilizado, se encuentra en Kaggle: 
-            <a href="https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets" target="_blank">
-                Stress_Dataset
-            </a><br>
-            Contiene 1100 registros x 21 columnas.
-        </p>
-        <p>
-            Este conjunto de datos no contiene valores faltantes ni duplicados.<br>
-            No es necesario realizar ninguna limpieza, por lo que se puede comenzar el análisis sin necesidad de realizar pasos adicionales.
-        </p>
-    </div>
+Este dataset representa el estres en estudiantes midiendo diferentes variables como: Niveles de ansiedad, autoestima, etc.
+El archivo se compone de 1100 filas y 21 columnas que se componen de:
+anxiety_level, self_esteem, mental_health_history, depression, headache, 
+blood_pressure, sleep_quality, breathing_problem, noise_level, living_conditions, safety, basic_needs, academic_performance, study_load, teacher_student_relationship,
+future_career_concerns, social_support, peer_pressure, extracurricular_activities, bullying, stress_level
 
-    <div class="section">
-        <p>
-            Este análisis tiene como objetivo resolver las siguientes preguntas:
-            <strong>Análisis de datos</strong>
-        </p>
-        <ul>
-            <li>¿Qué factores se reportan más seguido?</li>
-            <li>¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?</li>
-            <li>¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?</li>
-            <li>¿Cuáles son los 3 mayores factores que aumentan el estrés?</li>
-            <li>¿Para el factor que disminuye el estrés, cuántos estudiantes tienen un nivel por debajo del promedio?</li>
-            <li>¿Cuáles son los 3 factores que disminuyen el estrés?</li>
-        </ul>
-    </div>
+__________________________________________________________________________________________________________________
 
-    <div class="section">
-        <p>
-            <strong>Análisis comparativo</strong><br>
-            • ¿Cuáles son las correlaciones entre los factores?<br>
-            • ¿Los estudiantes que sufren acoso escolar tienen mayor probabilidad de tener antecedentes de problemas de salud mental?
-        </p>
-    </div>
+Este proyecto presenta un análisis IDA, EDA, estadística descriptiva para el análisis de datos, análisis de correlación de datos y creación de gráficos.
+Estos análisis tienen como objetivo resolver las siguientes preguntas:
 
-    <h2>🏁 Conclusión</h2>
-    <p>
-        tengo la media corneta.
-    </p>
-</body>
-</html>
+Análisis de datos
+• ¿Qué factores se reportan más seguido?
+• ¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?
+• ¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?
+• ¿Cuáles son los 3 mayores factores que aumentan al estrés?
+• ¿Para el factor que disminuye el estres, cuántos estudiantes tienen un nivel por debajo del promedio?
+• ¿Cuáles son los 3 factores que disminunyen el estrés?
+
+Análisis comparativo
+• ¿Cuáles con las correlaciones entre los factores?
+• ¿Los estudiantes que sufren acoso escolar tienen mayor probabilidad de tener antecedentes de problemas de salud mental?
+
+_____________________________________________________________________________________________________________________
+
+Comienza con un analisis IDA. Este conjunto de datos no contiene valores faltantes ni duplicados.
+No requiere limpieza, por lo que se puede comenzar el análisis sin pasos adicionales.
