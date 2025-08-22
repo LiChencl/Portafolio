@@ -96,7 +96,7 @@ Las variables que disminuyen el nivel de estres son: 1) Autoestima 2) Calidad de
 El número de estudiantes que estan bajo el promedio es 507, con un porcentke de 46.13%
 
 Análisis comparativo  
-• ¿Cuáles con las correlaciones entre las variables?  
+• ¿Cuáles son las correlaciones entre las variables?  
 ![alt](https://github.com/LiChencl/Portafolio/blob/main/Python/correlacion.png)
 
 _______________________________________________________________________________________________________________________
