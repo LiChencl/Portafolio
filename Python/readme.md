@@ -2,7 +2,7 @@
 
 Se encuentra en Kaggle: [StressLevelDataset](https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets)
 
-Este dataset representa el estres en estudiantes midiendo diferentes variables como: Niveles de ansiedad, autoestima, etc.
+Este dataset representa el estres en estudiantes midiendo diferentes variables como: Niveles de ansiedad, autoestima, etc.  
 El archivo se compone de 1100 filas y 21 columnas que se componen de:
 anxiety_level, self_esteem, mental_health_history, depression, headache, 
 blood_pressure, sleep_quality, breathing_problem, noise_level, living_conditions, safety, basic_needs, academic_performance, study_load, teacher_student_relationship,
@@ -50,7 +50,7 @@ Sería ideal confirmarlo con documentación adicional o con quien diseñó el da
 __________________________________________________________________________________________________________________
 ## Decripción Proyecto
 
-Este proyecto presenta un análisis IDA, EDA, estadística descriptiva para el análisis de datos, análisis de correlación de datos y creación de gráficos.
+Este proyecto presenta un análisis IDA, EDA, estadística descriptiva para el análisis de datos, análisis de correlación de datos y creación de gráficos.  
 Estos análisis tienen como objetivo resolver las siguientes preguntas:
 
 Análisis de datos  
@@ -77,33 +77,33 @@ ________________________________________________________________________________
 ## Desarrollo
 
 Análisis de datos  
-• ¿Qué factores se reportan más seguido?
+• ¿Qué factores se reportan más seguido?  
 Los factores más reportados son los académicos, que incluyen: 'academic_performance', 'study_load', 'teacher_student_relationship', 'future_career_concerns'.
 
-• ¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?
+• ¿Cuántos estudiantes han reportado antecedentes de problemas de salud mental?  
 542 alumnos presentan historial de problemas de salud mental, lo que representa un 49.32%.
 
-• ¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?
+• ¿Cuál es el nivel promedio de ansiedad de los estudiantes en el conjunto de datos?  
 El nivel de ansiedad promedio tiene una puntuacion 11, de una escala del 0 al 21.
 
-• ¿Cuáles son los 3 mayores variables que aumentan al estrés?
+• ¿Cuáles son los 3 mayores variables que aumentan al estrés?  
 Las 3 variables que aumentan el nivel de estres son: 1) Bullying 2) Nivel de ansiedad 3)Preocupaciones futuras de carrera.
 
-• ¿Cuáles son los 3 mayores variables que disminunyen el estrés?
+• ¿Cuáles son los 3 mayores variables que disminunyen el estrés?  
 Las variables que disminuyen el nivel de estres son: 1) Autoestima 2) Calidad de sueño 3) Rendimiento académico
 
-• ¿Para la variable que más disminuye el estres, cuántos estudiantes tienen un nivel por debajo del promedio?
+• ¿Para la variable que más disminuye el estres, cuántos estudiantes tienen un nivel por debajo del promedio?  
 El número de estudiantes que estan bajo el promedio es 507, con un porcentke de 46.13%
 
 Análisis comparativo  
-• ¿Cuáles con las correlaciones entre las variables?
+• ¿Cuáles con las correlaciones entre las variables?  
 Dirigirse al mapa de calor dentro del proyecto, para una visión clara de las correlaciones.
 
 _______________________________________________________________________________________________________________________
 ## Conclusiones
 
 El análisis muestra que los factores académicos y el bullying son los principales responsables del estrés en estudiantes. Casi la mitad presenta antecedentes de problemas de salud mental, y el nivel promedio de ansiedad es moderado (11/21).  
-
-Factores como autoestima, calidad del sueño y rendimiento académico ayudan a disminuir el estrés, aunque un 46% de los estudiantes tiene autoestima por debajo del promedio. # Estos hallazgos resaltan la importancia de implementar estrategias de apoyo emocional y académico para mejorar el bienestar estudiantil, como campañas antibullying, orientación vocacional, instancias para ser más cercanos con los profesores, etc.
+Factores como autoestima, calidad del sueño y rendimiento académico ayudan a disminuir el estrés, aunque un 46% de los estudiantes tiene autoestima por debajo del promedio. 
+#### Estos hallazgos muestran la importancia de implementar estrategias de apoyo emocional y académico para mejorar el bienestar de los estudiantes; como campañas antibullying, orientación vocacional, instancias para ser más cercanos con los profesores, etc.
 
 
