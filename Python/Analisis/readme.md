@@ -97,7 +97,7 @@ El número de estudiantes que estan bajo el promedio es 507, con un porcentke de
 
 Análisis comparativo  
 • ¿Cuáles son las correlaciones entre las variables?  
-![alt](https://github.com/LiChencl/Portafolio/blob/main/Python/correlacion.png)
+![alt](https://github.com/LiChencl/Portafolio/blob/main/Python/Analisis/correlacion.png)
 
 _______________________________________________________________________________________________________________________
 ## Conclusiones
