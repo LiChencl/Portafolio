@@ -13,7 +13,7 @@ ________________________________________________________________________________
 Soy Ingeniera Comercial apasionada por el analisis de datos y aprender nuevas tecnologías constantemente.  
 Me encanta trabajar en proyectos que combinan innovación, creatividad y lógica.
 
-En este portafolio se encuentran 3 proyectos desarrollados por mí donde muestro mis capacidades en Python, SQL y PowerBi.
+En este portafolio se encuentran 3 proyectos desarrollados por mí donde muestro mis capacidades en Python y PowerBi.
 
 
 
